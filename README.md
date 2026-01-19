@@ -22,7 +22,7 @@ Learn and demonstrate:
 - **UITabBarController**: Bottom tab navigation with 4 main sections
 - **Segues**: Screen-to-screen transitions and data flow
 - **Navigation Bar**: Top bar with titles and action buttons
-
+  
 ### Input Components
 - **UITextField**: Text input fields with different keyboard types
   - Email keyboard for email fields
@@ -55,6 +55,7 @@ Learn and demonstrate:
 - **Typography**: System fonts with varying sizes and weights
 
 ## Screen Architecture
+<img width="788" height="704" alt="Screenshot 2026-01-19 at 8 14 21 AM" src="https://github.com/user-attachments/assets/834b8e54-920a-4cd9-b60a-c228e60c9a5a" />
 
 ### Authentication Flow (6 screens)
 - Sign Up screen with form fields and social login options
